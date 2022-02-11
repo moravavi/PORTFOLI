@@ -23,16 +23,25 @@ body {
   flex-direction: column;
 }
 
-#introduccio > p {
+#segona_introducció > h1 {
+  font-size: 40px;
+  font-weight: 320;
   margin-bottom: 10px;
-  text-align: justify !important;
+  text-align: justify;
+}
+
+.text1 {
+  font-size: 30px;
+  font-weight: 330;
+  margin-bottom: 10px;
+  text-align: justify;
 }
 
 #introducció > h1 {
-  font-size: 120px;
-  font-weight: 300;
-  text-align: center;
-  line-height: 90px;
+  font-size: 245px;
+  font-weight: 325;
+  text-align:center;
+  line-height: 170px;
 }
 
 img {
@@ -57,10 +66,11 @@ img {
   align-items: center;
   flex-direction: column;
   padding: 40px;
+  
 }
 
 .card > a {
-  font-size: 32px;
+  font-size: 45px;
   text-decoration: none;
   margin-top: 20px;
 }
@@ -68,6 +78,84 @@ img {
 .card > a:visited {
   color: #000;
 }
+
+
+
+
+
+/*
+adeu div{
+display :inline-lock;
+witth: 20px;} */
+
+/*#mora div{
+display: inline-block;
+width: 100px;
+}
+
+#mora div :first-child{
+  float: left;
+  display: inline-block;
+  width: 60px;
+  
+}
+
+
+/*
+adeu div{
+display :inline-lock;
+witth: 20px;} */
+
+
+/*kerning*/
+
+/*#adeu div:{
+  dislpay: inline-lock;
+}
+
+#adeu div:{
+  float:
+  
+left;
+
+}
+
+
+
+
+<h2 div "adeu">
+<hr>
+<div> a<div>
+<div> a<div>
+<div> a<div>
+<div> a<div>
+</h2>
+
+
+#adeu div: :first-child{
+  float: left;
+  display: inline-block;
+  width: 60px;
+}
+
+#adeu div: first child;
+marging: 60px, -16px, 0 0
+transition: margin: 2px;*/
+
+/*#mora div: :first-child{
+  float: left;
+  display: inline-block;
+  width: 60px;
+}
+
+
+
+
+
+
+
+
+
 
 
 
